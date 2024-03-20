@@ -42,3 +42,8 @@ git clone https://github.com/saurav345/Calculator.git
 - Subtraction: 5 - 3 = 2
 - Multiplication: 2 * 3 = 6
 - Division: 6 / 3 = 2
+
+
+## Calculator📱 live : https://calcmates.netlify.app/
+Screenshots :-
+![image](https://github.com/saurav345/Calculator/assets/109217236/fa339fda-58c6-4e10-89d4-28deba0b5d9a)
