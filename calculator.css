@@ -97,3 +97,17 @@ button:active{
     background-color: rgb(27, 62, 175);
     color: rgb(251, 229, 229);
 }
+@media (max-width: 768px) {
+    #calculator {
+        max-width: 100%;
+    }
+
+    button {
+        width: calc(25% - 10px);
+        font-size: 20px;
+    }
+
+    #display {
+        font-size: 18px;
+    }
+}
