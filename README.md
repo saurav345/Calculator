@@ -20,7 +20,6 @@ Description: A calculator is a tool that performs mathematical operations. It ca
 - CSS
 - JavaScript
 
-  ## Installation
 
 ## Installation
 
